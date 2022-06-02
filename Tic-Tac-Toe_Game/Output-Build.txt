@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Tic-Tac-Toe_Game, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Tic-Tac-Toe_Game -> C:\Users\HP\source\repos\Tic-Tac-Toe_Game\Tic-Tac-Toe_Game\bin\Debug\net6.0-windows\Tic-Tac-Toe_Game.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
